@@ -4,7 +4,7 @@
   "type": "module",
   "dependencies": {
     "openai": "^4.67.1",
-    "puppeteer-core": "^23.5.3",
-    "@sparticuz/chromium-min": "^130.0.0"
+    "playwright-core": "^1.48.0",
+    "playwright": "^1.48.0"
   }
 }
