@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/quiz.js": {
+      "memory": 2048,
+      "maxDuration": 180
+    }
+  }
+}
