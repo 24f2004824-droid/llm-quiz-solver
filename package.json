@@ -1,8 +1,6 @@
 {
-  "name": "llm-quiz-solver",
-  "version": "1.0.0",
-  "type": "module",
   "dependencies": {
+    "puppeteer": "^23.5.3",
     "openai": "^4.67.1"
   }
 }
