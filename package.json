@@ -1,0 +1,11 @@
+{
+  "name": "llm-quiz-solver",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.67.1",
+    "puppeteer-core": "^23.5.3"
+  }
+}
